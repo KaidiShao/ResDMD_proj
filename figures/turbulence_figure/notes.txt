@@ -1,0 +1,6 @@
+basis:300
+psi:150
+k:150
+
+epoch:300
+batch size:500
