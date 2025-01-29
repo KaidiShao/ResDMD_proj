@@ -1,10 +1,10 @@
-# NN-ResDMD instructions
+# ResKoopNet instructions
 
 ---
 
 ## Experiments 1: Pendulum
 
-I have provided two versions of Pendulum system using NN-ResDMD and a comparison test with other 4 methods:
+I have provided two versions of Pendulum system using ResKoopNet and a comparison test with other 4 methods:
 
 1. The `pendulum.m` file is used to generate pendulum data.
 2. **TensorFlow Version**: `pendulum_nnresdmd_tf.ipynb`
@@ -14,11 +14,11 @@ I have provided two versions of Pendulum system using NN-ResDMD and a comparison
 
 ## Experiments 2: Turbulence
 
-We have computed Koopman modes using NN-ResDMD and Hankel-DMD in these experiments:
+We have computed Koopman modes using ResKoopNet and Hankel-DMD in these experiments:
 
-1. Experiment on turbulence using NN-ResDMD: `turbulence_nnresdmd.ipynb`
-2. Plotting Koopman modes computed from NN-ResDMD method: `turbulence_nnresdmd_plot.ipynb`
-3. Experiment on turbulence using NN-ResDMD with plotting: `turbulence_hankeldmd.ipynb`
+1. Experiment on turbulence using ResKoopNet: `turbulence_nnresdmd.ipynb`
+2. Plotting Koopman modes computed from ResKoopNet method: `turbulence_nnresdmd_plot.ipynb`
+3. Experiment on turbulence using ResKoopNet with plotting: `turbulence_hankeldmd.ipynb`
 
 ## Solvers
 
